@@ -1,16 +1,17 @@
 # Payload-Eb
 
 
-#Warning:
+# Warning:
+
 This is for educational purposes only.
 we do not promote or support any illegal activity.
 
-#INSTALLATION
+# INSTALLATION
 
 pip install -r requirements.txt
 
 python3 payload-eb.py
 
 
-#SUPPORT-PLATFORMS
+# SUPPORT-PLATFORMS
 *ALL
